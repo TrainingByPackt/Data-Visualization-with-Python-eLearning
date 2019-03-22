@@ -1,0 +1,38 @@
+# Data-Visualization-with-Python-eLearning
+Create an impact with meaningful data insights using interactive and engaging visuals
+
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Visualization-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/pulls)
+
+# Data-Visualization-with-Python-eLearning
+Understand, explore, and effectively present data using the powerful data visualization techniques of Python.
+
+## What you will learn
+* Uses of real data to explain key visualization tools and techniques
+* Industry standard plotting libraries, such as Matplotlib and Seaborn
+* Explains the hands-on approach and concepts with real-world examples
+
+### Hardware requirements
+For an optimal student experience, we recommend the following hardware configuration:
+* **Processor**: Dual Core or better
+* **Memory**: 40GB RAM
+* **Storage**: 10 GB available space
+* An Internet connection
+
+
+### Software requirements
+You’ll also need the following software installed in advance:
+* **Any of the following operating systems**: 
+  * Windows 7 SP1 32/64-bit, 
+  * Windows 8.1 32/64-bit or Windows 10 32/64-bit
+  * Ubuntu 14.04 or later
+  * macOS Sierra or later
+* Browser: Google Chrome or Mozilla Firefox
+* Conda
+* Jupyterlab
+
+
+
+
