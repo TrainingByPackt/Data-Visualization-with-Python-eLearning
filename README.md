@@ -1,10 +1,10 @@
 # Data-Visualization-with-Python-eLearning
 Create an impact with meaningful data insights using interactive and engaging visuals
 
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Visualization-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning-eLearning/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Visualization-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Visualization-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Visualization-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/pulls)
 
 # Data-Visualization-with-Python-eLearning
 Understand, explore, and effectively present data using the powerful data visualization techniques of Python.
