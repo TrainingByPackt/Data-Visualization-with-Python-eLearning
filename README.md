@@ -14,7 +14,7 @@ Understand, explore, and effectively present data using the powerful data visual
 * Industry standard plotting libraries, such as Matplotlib and Seaborn
 * Explains the hands-on approach and concepts with real-world examples
 
-### Hardware requirements
+### Hardware Requirements
 For an optimal student experience, we recommend the following hardware configuration:
 * **Processor**: Dual Core or better
 * **Memory**: 40GB RAM
@@ -22,7 +22,7 @@ For an optimal student experience, we recommend the following hardware configura
 * An Internet connection
 
 
-### Software requirements
+### Software Requirements
 You’ll also need the following software installed in advance:
 * **Any of the following operating systems**: 
   * Windows 7 SP1 32/64-bit, 
