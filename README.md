@@ -1,6 +1,3 @@
-# Data-Visualization-with-Python-eLearning
-Create an impact with meaningful data insights using interactive and engaging visuals
-
 [![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Visualization-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Visualization-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Visualization-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/stargazers)
@@ -21,7 +18,6 @@ For an optimal student experience, we recommend the following hardware configura
 * **Storage**: 10 GB available space
 * An Internet connection
 
-
 ### Software Requirements
 You’ll also need the following software installed in advance:
 * **Any of the following operating systems**: 
@@ -32,7 +28,3 @@ You’ll also need the following software installed in advance:
 * Browser: Google Chrome or Mozilla Firefox
 * Conda
 * Jupyterlab
-
-
-
-
