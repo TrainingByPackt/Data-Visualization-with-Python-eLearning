@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Visualization-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/pulls)
 
-# Data-Visualization-with-Python-eLearning
+# Data Visualization with Python eLearning
 Understand, explore, and effectively present data using the powerful data visualization techniques of Python.
 
 ## What you will learn
